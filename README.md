@@ -1,0 +1,2 @@
+## Pharmacy Supply Chain Performance Analysis
+This project focuses on analyzing a healthcare dataset to evaluate pharmacy order fulfillment performance. The analysis examines key metrics such as order acceptance rates, compounding times, and shipping times to identify trends and bottlenecks. Based on the findings, an action plan is provided to improve fulfillment efficiency, ensure timely delivery, and enhance patient satisfaction.
